@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KafkaReplicaSetter:jar">
+    <output-path>$USER_HOME$/repos/KafkaReplicaSetter/out/artifacts/KafkaReplicaSetter_jar</output-path>
+    <root id="archive" name="kafka-balancer.jar">
+      <element id="module-output" name="KafkaReplicaSetter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/lz4-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/zkclient-0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/jopt-simple-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/slf4j-api-1.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/zookeeper-3.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/metrics-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/slf4j-log4j12-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/snappy-java-1.1.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka-clients-0.8.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-scaladoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
